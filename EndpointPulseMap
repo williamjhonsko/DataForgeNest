@@ -1,0 +1,22 @@
+
+---
+
+**EndpointPulseMap**  
+**Description:**  
+Tracks real-time performance of multiple APIs and maps out their latency pulses and availability.
+
+```markdown
+# EndpointPulseMap - Live API Pulse Monitor
+
+EndpointPulseMap provides a timeline of uptime and latency signals across distributed services.
+
+## Features
+- Visual latency pulse map  
+- Failure burst tracking  
+- CSV and JSON output
+
+## Usage
+```bash
+git clone https://github.com/your-username/EndpointPulseMap.git
+cd EndpointPulseMap
+python monitor.py
