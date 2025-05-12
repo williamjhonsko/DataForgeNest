@@ -1,0 +1,22 @@
+
+---
+
+**LogPatternNet**  
+**Description:**  
+Analyzes logs for recurring patterns, repetition loops, and anomaly networks across large systems.
+
+```markdown
+# LogPatternNet - Pattern-Centric Log Analyzer
+
+LogPatternNet builds a network of related log entries, helping to trace systemic issues and hidden feedback loops.
+
+## Features
+- Pattern clustering  
+- Log network visualization  
+- CLI-based workflow
+
+## Usage
+```bash
+git clone https://github.com/your-username/LogPatternNet.git
+cd LogPatternNet
+python analyze.py
