@@ -1,0 +1,22 @@
+
+---
+
+**StreamTunnelScope**  
+**Description:**  
+Smoothly visualizes high-frequency data streams in a real-time tunnel view with optional peak markers.
+
+```markdown
+# StreamTunnelScope - Realtime Data Stream Viewer
+
+StreamTunnelScope displays scrolling charts of numeric input with minimal delay and customizable pacing.
+
+## Features
+- Live scrollable graph  
+- Peak/valley detection  
+- Matplotlib backend
+
+## Usage
+```bash
+git clone https://github.com/your-username/StreamTunnelScope.git
+cd StreamTunnelScope
+python visualize.py
