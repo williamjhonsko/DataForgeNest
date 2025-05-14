@@ -1,0 +1,22 @@
+
+---
+
+**LogSpiralTracker**  
+**Description:**  
+Analyzes log streams to detect spiraling error patterns, recursive chains, and escalation bursts.
+
+```markdown
+# LogSpiralTracker - Recursive Error Pattern Detector
+
+LogSpiralTracker identifies repeating log structures that escalate or cycle through failure loops.
+
+## Features
+- Recursive pattern analysis  
+- Escalation burst detection  
+- CLI timeline filters
+
+## Usage
+```bash
+git clone https://github.com/your-username/LogSpiralTracker.git
+cd LogSpiralTracker
+python analyze.py
