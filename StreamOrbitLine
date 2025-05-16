@@ -1,0 +1,22 @@
+
+---
+
+**StreamOrbitLine**  
+**Description:**  
+Visualizes numeric streams in a continuous orbital line chart optimized for live monitoring dashboards.
+
+```markdown
+# StreamOrbitLine - Orbital Realtime Stream Visualizer
+
+StreamOrbitLine presents streaming metrics in a circular, orbit-like format to show flow, density, and variation.
+
+## Features
+- Orbit-style chart display  
+- Live scroll with decay  
+- Matplotlib rendering
+
+## Usage
+```bash
+git clone https://github.com/your-username/StreamOrbitLine.git
+cd StreamOrbitLine
+python visualize.py
