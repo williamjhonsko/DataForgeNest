@@ -1,0 +1,22 @@
+
+---
+
+**LogLoopMiner**  
+**Description:**  
+Finds looped log behaviors, redundant errors, and recurring message cycles hidden in large log volumes.
+
+```markdown
+# LogLoopMiner - Redundancy & Pattern Analyzer for Logs
+
+LogLoopMiner detects cyclic log patterns, repetitive exceptions, and messaging loops in long-running systems.
+
+## Features
+- Cycle detection  
+- Pattern loop highlighting  
+- CLI interface with filters
+
+## Usage
+```bash
+git clone https://github.com/your-username/LogLoopMiner.git
+cd LogLoopMiner
+python analyze.py
