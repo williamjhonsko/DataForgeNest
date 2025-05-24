@@ -1,0 +1,22 @@
+
+---
+
+**StreamFadePanel**  
+**Description:**  
+Renders live data in a fading stream panel where older values gently disappear, mimicking signal decay.
+
+```markdown
+# StreamFadePanel - Temporal Stream Visualizer
+
+StreamFadePanel provides a unique fading effect for real-time metric charts, emphasizing new values and de-emphasizing old ones.
+
+## Features
+- Live fade visualization  
+- Adjustable decay rate  
+- Built with Matplotlib
+
+## Usage
+```bash
+git clone https://github.com/your-username/StreamFadePanel.git
+cd StreamFadePanel
+python visualize.py
